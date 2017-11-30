@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Entree" max_length="40" name="x_58872_needit_entree" type="collection">
+        <element label="Chicken wrap" max_length="40" name="chicken_wrap" type="string"/>
+        <element label="Hamburger" max_length="40" name="hamburger" type="string"/>
+        <element label="Hot dog" max_length="40" name="hot_dog" type="string"/>
+        <element display="true" label="Quesadilla" max_length="40" name="quesadilla" type="string"/>
+        <element label="Watermelon slice" max_length="40" name="watermelon_slice" type="string"/>
+    </element>
+</database>

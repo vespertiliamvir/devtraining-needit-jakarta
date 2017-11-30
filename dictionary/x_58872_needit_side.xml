@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Side" max_length="40" name="x_58872_needit_side" type="collection">
+        <element label="French Fries" max_length="40" name="french_fries" type="string"/>
+        <element label="Onion Rings" max_length="40" name="onion_rings" type="string"/>
+        <element label="Small Animals" max_length="40" name="small_animals" type="string"/>
+    </element>
+</database>

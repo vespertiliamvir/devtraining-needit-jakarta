@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Drink" max_length="40" name="x_58872_needit_drink" type="collection">
+        <element label="Dr. Pepperika" max_length="40" name="dr_pepperika" type="string"/>
+        <element label="Mojo Juice" max_length="40" name="mojo_juice" type="string"/>
+        <element label="Sweet tea" max_length="40" name="sweet_tea" type="string"/>
+        <element label="Water" max_length="40" name="water" type="string"/>
+    </element>
+</database>

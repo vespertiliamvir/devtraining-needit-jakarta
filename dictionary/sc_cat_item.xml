@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="global_search_config_handler=CatalogItem,all_tables.text_index_translations=true,update_synch=true,all_tables.synch_attachments=true,text_wiki_translations=true" extends="sys_metadata" label="Catalog Item" max_length="40" name="sc_cat_item" read_roles="catalog,itil" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Ordered by" max_length="40" name="x_58872_needit_ordered_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ordered for" max_length="40" name="x_58872_needit_ordered_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Self Order?" max_length="40" name="x_58872_needit_self_order" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Time of Order" max_length="40" name="x_58872_needit_time_of_order" type="string"/>
+    </element>
+</database>

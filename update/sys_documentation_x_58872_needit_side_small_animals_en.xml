@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="small_animals" label="Small Animals" language="en" table="x_58872_needit_side">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>small_animals</element>
+            <help/>
+            <hint/>
+            <label>Small Animals</label>
+            <language>en</language>
+            <name>x_58872_needit_side</name>
+            <plural>Small Animals</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-28 21:16:19</sys_created_on>
+            <sys_id>c347a5144f320300e7496b628110c7f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Small Animals</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_side_small_animals_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-28 21:16:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
